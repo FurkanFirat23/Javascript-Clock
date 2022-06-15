@@ -11,6 +11,7 @@ if (userInput.length > 0) {
   console.log("No user input");
 }
 
+
 function showTime() {
   const d = new Date();
   const hour = d.getHours();
@@ -35,6 +36,7 @@ function showTime() {
   }
   setTimeout(showTime, 1000);
 
+  
   myClock.innerHTML = `${hour}:${minutes}:${seconds} ${day}`;
 }
 
