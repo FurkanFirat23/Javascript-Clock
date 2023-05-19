@@ -1,4 +1,4 @@
-# Javascript-Saat-ve-Karsilama
+# Javascript-Clock
 
 ## patika dev profilim: 
 https://app.patika.dev/changbogo
